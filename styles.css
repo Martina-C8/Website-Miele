@@ -105,6 +105,17 @@ nav ul li a {
   margin-bottom: 10px; /* Spazio tra l'immagine e il testo */
 }
 
+button {
+  width: 80px;
+  height: 40px;
+  border-radius: 20px;
+}
+
+button:hover {
+  background-color: #ffdb4d;
+  color: #fff;
+}
+
 footer {
   text-align: center;
   clear: both;
