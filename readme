@@ -1,0 +1,35 @@
+.palette1 {
+    width: 50px;
+    height: 30px;
+    background-color: #FFD700;
+}
+
+.palette2 {
+    width: 50px;
+    height: 30px;
+    background-color: #FFA500;
+}
+
+.palette3 {
+    width: 50px;
+    height: 30px;
+    background-color: #8B4513;
+}
+
+.palette4 {
+    width: 50px;
+    height: 30px;
+    background-color: #8FBC8F;
+}
+
+.palette5 {
+    width: 50px;
+    height: 30px;
+    background-color: #FFF8DC;
+}
+
+/*Giallo miele (#FFD700)
+Arancione miele (#FFA500)
+Marrone scuro (#8B4513)
+Verde salvia (#8FBC8F)
+Crema (#FFF8DC)*/ 
